@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/dfoxmediadigital/public_html/demo/repositories/test1/
+    - export DEPLOYPATH=/home/dfoxmediadigital/public_html/demo/test1/
     - /bin/cp * $DEPLOYPATH
